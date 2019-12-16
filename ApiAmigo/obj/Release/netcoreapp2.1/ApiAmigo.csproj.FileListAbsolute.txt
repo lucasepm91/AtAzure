@@ -1,0 +1,16 @@
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiAmigo\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiAmigo\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiAmigo\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiAmigo\bin\Release\netcoreapp2.1\ApiAmigo.deps.json
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiAmigo\bin\Release\netcoreapp2.1\ApiAmigo.runtimeconfig.json
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiAmigo\bin\Release\netcoreapp2.1\ApiAmigo.runtimeconfig.dev.json
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiAmigo\bin\Release\netcoreapp2.1\ApiAmigo.dll
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiAmigo\bin\Release\netcoreapp2.1\ApiAmigo.pdb
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiAmigo\obj\Release\netcoreapp2.1\ApiAmigo.csprojAssemblyReference.cache
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiAmigo\obj\Release\netcoreapp2.1\ApiAmigo.RazorAssemblyInfo.cache
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiAmigo\obj\Release\netcoreapp2.1\ApiAmigo.RazorAssemblyInfo.cs
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiAmigo\obj\Release\netcoreapp2.1\ApiAmigo.AssemblyInfoInputs.cache
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiAmigo\obj\Release\netcoreapp2.1\ApiAmigo.AssemblyInfo.cs
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiAmigo\obj\Release\netcoreapp2.1\ApiAmigo.RazorTargetAssemblyInfo.cache
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiAmigo\obj\Release\netcoreapp2.1\ApiAmigo.dll
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiAmigo\obj\Release\netcoreapp2.1\ApiAmigo.pdb

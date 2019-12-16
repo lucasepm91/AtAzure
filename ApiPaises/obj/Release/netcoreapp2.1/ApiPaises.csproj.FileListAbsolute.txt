@@ -1,0 +1,16 @@
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiPaises\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiPaises\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiPaises\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiPaises\bin\Release\netcoreapp2.1\ApiPaises.deps.json
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiPaises\bin\Release\netcoreapp2.1\ApiPaises.runtimeconfig.json
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiPaises\bin\Release\netcoreapp2.1\ApiPaises.runtimeconfig.dev.json
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiPaises\bin\Release\netcoreapp2.1\ApiPaises.dll
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiPaises\bin\Release\netcoreapp2.1\ApiPaises.pdb
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiPaises\obj\Release\netcoreapp2.1\ApiPaises.csprojAssemblyReference.cache
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiPaises\obj\Release\netcoreapp2.1\ApiPaises.RazorAssemblyInfo.cache
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiPaises\obj\Release\netcoreapp2.1\ApiPaises.RazorAssemblyInfo.cs
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiPaises\obj\Release\netcoreapp2.1\ApiPaises.AssemblyInfoInputs.cache
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiPaises\obj\Release\netcoreapp2.1\ApiPaises.AssemblyInfo.cs
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiPaises\obj\Release\netcoreapp2.1\ApiPaises.RazorTargetAssemblyInfo.cache
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiPaises\obj\Release\netcoreapp2.1\ApiPaises.dll
+C:\Users\lucas.pmartins\source\repos\At_Azure\ApiPaises\obj\Release\netcoreapp2.1\ApiPaises.pdb
